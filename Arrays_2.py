@@ -1,0 +1,12 @@
+arr_1={1,2,3,4,5,6}
+arr_2=[1,2,3,5,6,8]
+arr_4=(1,2,3,3,26,1,6)
+arr_5={
+    "name":"test1",
+    "age":"test_age",
+    "blood_group":"testgroup",
+}
+print(type(arr_1))
+print(type(arr_2))
+print(type(arr_4))
+print(type(arr_5))
